@@ -9,6 +9,15 @@ section {
     margin: 20px auto;
 }
 
+.profil {
+    border-radius: 100px;
+}
+
+.reseaux {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .personne {
     padding: 1px;
     text-align: center;
